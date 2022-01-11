@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... MadeMan
+- 🔭 I’m currently working on ... Marketing for MadeMan
 - 🌱 I’m currently learning ... TikTok's Algorithm 
 - 👯 I’m looking to collaborate on ... TikTok's Algorithm
 - 🤔 I’m looking for help with ... Solidity
